@@ -1,0 +1,6 @@
+# Ignore these files
+cdsc_new_year_outbreak_linelist.csv
+
+# Ignore all csvs
+# Make a storage folder in HARP (pathway in config file)
+*.csv
