@@ -5,3 +5,4 @@ config.yaml
 # Ignore all csvs
 # Make a storage folder in HARP (pathway in config file)
 *.csv
+*.png
